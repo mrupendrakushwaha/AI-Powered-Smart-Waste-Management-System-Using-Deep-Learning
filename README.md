@@ -105,6 +105,29 @@ This project is an **AI-powered Smart Waste Management System** developed using 
 📄 PDF Report
 
 ---
+# 📸 Project Demonstration
+
+## 📥 Input Images
+
+| Cardboard | Glass | Metal |
+|------------|--------|--------|
+| ![](Input/Cardboard.png) | ![](Input/Glass.png) | ![](Input/Metal.png) |
+
+| Paper | Plastic | Trash |
+|--------|----------|-------|
+| ![](Input/Paper.png) | ![](Input/Plastic.png) | ![](Input/Trash.png) |
+
+---
+
+## 📤 Prediction Outputs
+
+| Cardboard | Glass | Metal |
+|------------|--------|--------|
+| ![](Output/Cardboard_output.jpg) | ![](Output/Glass_output.jpg) | ![](Output/Metal_output.jpg) |
+
+| Paper | Plastic | Trash |
+|--------|----------|-------|
+| ![](Output/Paper_output.jpg) | ![](Output/Plastic_output.jpg) | ![](Output/Trash_output.jpg) |
 
 # 🌍 Sustainability Impact
 
@@ -119,6 +142,21 @@ This project is an **AI-powered Smart Waste Management System** developed using 
 🎯 Supports Sustainable Development Goals (SDGs)
 
 ---
+# 📊 Dashboard
+
+### Waste Distribution
+![](Waste_Distribution.png)
+
+### Waste Count
+![](Waste_Count.png)
+
+---
+
+# 📄 Generated PDF Report
+
+Download the sample report from the repository:
+
+📄 **AI_Smart_Waste_Report.pdf**
 
 # 📊 Project Outputs
 
