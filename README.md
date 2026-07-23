@@ -72,7 +72,7 @@ This project is an **AI-powered Smart Waste Management System** developed using 
 
 | 📷 Camera Input | 🖼️ Gallery Input |
 |----------------|------------------|
-| <img src="Input/Camera_input.jpg" width="350"> | <img src="Input/Gallery_input.jpg" width="350"> |
+| <img src="Input/Camera_input.png" width="350"> | <img src="Input/Gallery_input.png" width="350"> |
 
 ## 📥 Input Images
 
